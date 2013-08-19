@@ -1,0 +1,21 @@
+Fingerprint cleanup.log
+Out of order build detection.log
+Workspace clean-up.log
+hudson.model.UpdateCenter.xml
+hudson.plugins.git.GitTool.xml
+identity.key
+jenkins.diagnostics.ooom.OutOfOrderBuildMonitor
+jenkins.security.QueueItemAuthenticatorConfiguration.xml
+jobs
+nodeMonitors.xml
+plugins
+queue.xml.bak
+secret.key
+secret.key.not-so-secret
+secrets
+updates
+userContent
+users
+war
+workspace
+.owner
